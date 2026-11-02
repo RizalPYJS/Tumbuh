@@ -1,0 +1,21 @@
+{
+  "id": "./",
+  "name": "Tumbuh: Teman tumbuh kembang keluarga",
+  "short_name": "Tumbuh",
+  "description": "Catat pertumbuhan dan rencanakan menu balita bersama Tumbuh.",
+  "lang": "id-ID",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#dcebf6",
+  "theme_color": "#dcebf6",
+  "icons": [
+    {
+      "src": "app-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
